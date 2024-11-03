@@ -150,3 +150,33 @@ ul {
     transform: rotate(360deg);
   }
 }
+
+.filter{
+  background-color: rgb(88, 88, 216);
+}
+.label{
+  background-color: rgb(88, 88, 212);
+}
+.select{
+  background-color: rgb(88, 88, 235);
+}
+.title{
+  background-color: rgb(88, 88, 218);
+}
+
+
+
+.App{
+  background-color: rgb(121, 120, 173);
+  column-gap: 0cm;
+}
+.ui.grid.container{
+  margin-top: 20px;
+  gap: 20px;
+}
+.ui.card{
+  margin: 1opx;
+}
+.ui form{
+  text-decoration: #3B0B0B;
+}
